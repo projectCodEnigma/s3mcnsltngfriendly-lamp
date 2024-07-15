@@ -1,0 +1,32 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment variable files
+.env
+
+# Ignore any log files
+*.log
+
+# Ignore build files
+/dist/
+/build/
+
+# Ignore OS generated files
+.DS_Store
+
+# Ignore image files containing sensitive information
+assets/imgs/ads port/d21Z72LSlChlicon.png
+assets/imgs/the best google ads specialist manager in the philippines.webp
+assets/imgs/ads port/campaign1.webp
+assets/imgs/ads port/campaign2.webp
+assets/imgs/ads port/campaign3.webp
+assets/imgs/avatar2.jpg
+assets/imgs/avatar3.jpg
+
+# Ignore CSS and JS vendor files
+assets/vendors/themify-icons/css/themify-icons.css
+assets/vendors/jquery/jquery-3.4.1.js
+assets/vendors/bootstrap/bootstrap.bundle.js
+assets/vendors/bootstrap/bootstrap.affix.js
+assets/css/zeldigital.css
+assets/js/meyawo.js
